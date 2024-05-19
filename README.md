@@ -38,18 +38,6 @@ Python :
 
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/Harshawardhan2209/CodePlay
-```
-
-Go to the project directory
-
-```bash
-  cd CodePlay
-```
-
 Install dependencies
 
 ```bash
